@@ -11,6 +11,8 @@ Tools: SQL, Google Sheets
 
 🔗 [Open Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1ukKVDAPdijxTODVHlnvt1Di5n_WpYOR3Ooagmi7_MR0/edit?usp=sharing)
 
+Description: Cohort analysis using SQL with data cleaning, date transformation, and retention calculation.
+
 ## 2. Stack Overflow Survey Analysis (Python)
 
 Tools: Python, Pandas  
