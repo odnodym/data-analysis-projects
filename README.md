@@ -25,3 +25,6 @@ Description:
 Analysis of Stack Overflow Developer Survey data using Python (Pandas). Includes data cleaning, handling missing values, statistical analysis, and identification of trends in salaries, remote work, and Python usage.
 
 🔗 [View Python Notebook](https://colab.research.google.com/drive/1SXiP2BvJynu37VIhDDIyesHCou-Q9G6z?usp=sharing)
+
+## Skills
+SQL, Python, Pandas, Data Cleaning, Data Analysis, Cohort Analysis, Google Sheets, EDA
